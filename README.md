@@ -17,13 +17,13 @@ This project includes basic Python programs that demonstrate:
 - `Employee record.csv` ~ Csv sample file
 
 ## Modules Used
-~ pickle module
-~ csv module
-~ os module
+- ~ pickle module
+- ~ csv module
+- ~ os module
 
 ## How to Run
 Just run any of the `.py` files using:
-Make sure you have supported module installed!!
+- Make sure you have supported module installed!!
 
 ```bash
 python filename.py
