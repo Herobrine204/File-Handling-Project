@@ -16,6 +16,11 @@ This project includes basic Python programs that demonstrate:
 - `sample.dat`  ~ Binary sample file
 - `Employee record.csv` ~ Csv sample file
 
+## Modules Used
+~ pickle module
+~ csv module
+~ os module
+
 ## How to Run
 Just run any of the `.py` files using:
 Make sure you have supported module installed!!
