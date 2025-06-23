@@ -12,9 +12,9 @@ This project includes basic Python programs that demonstrate:
 - `csv file.py` – Work with student records using `csv`
 
 ## Sample Files
-- `record.txt`
-- `sample.dat`
-- `Employee record.csv`
+- `record.txt`  ~ Text sample file
+- `sample.dat`  ~ Binary sample file
+- `Employee record.csv` ~ Csv sample file
 
 ## How to Run
 Just run any of the `.py` files using:
